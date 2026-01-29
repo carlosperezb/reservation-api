@@ -1,4 +1,4 @@
-package com.example.reservationapi;
+package com.oivahealth.reservationapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

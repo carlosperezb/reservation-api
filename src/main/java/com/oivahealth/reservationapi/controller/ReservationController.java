@@ -1,7 +1,7 @@
-package com.example.reservationapi.controller;
+package com.oivahealth.reservationapi.controller;
 
-import com.example.reservationapi.model.Reservation;
-import com.example.reservationapi.repository.ReservationRepository;
+import com.oivahealth.reservationapi.model.Reservation;
+import com.oivahealth.reservationapi.repository.ReservationRepository;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

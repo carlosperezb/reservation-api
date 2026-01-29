@@ -1,4 +1,4 @@
-package com.example.reservationapi.model;
+package com.oivahealth.reservationapi.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
